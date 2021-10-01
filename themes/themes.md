@@ -35,3 +35,10 @@ Get-PoshThemes
 | [iterm2](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/iterm2.omp.json "iterm2")                   | ^                             |    |
 
 Keep in mind there are many other themes, these are just some of my favs. Read more at https://ohmyposh.dev/
+
+## Themes Path
+
+To find the path of all theme use: 
+```
+Get-PoshThemes -list
+```
