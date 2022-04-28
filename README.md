@@ -7,3 +7,7 @@ Hello Internet, This repo is a place for me to keep all my terminal scripts for 
 This folder has my theme configuration for my powershell terminal.
 
 The new theme im using in windows right now is [Starship shell](https://starship.rs/).
+
+# Linux > automation > Pop OS
+
+POP OS scripts.
