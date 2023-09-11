@@ -1,8 +1,8 @@
-# Setup for linux 
+# Setup for Linux 
 
-## Fish
+*This assumes you will copy the `.config` folder into your Linux home path and then install all the deps.
 
-To install fish run:
+1. To install fish run:
 
 ```
 sudo apt-add-repository ppa:fish-shell/release-3
@@ -10,7 +10,14 @@ sudo apt update
 sudo apt install fish
 ```
 
-Then to setup starfish run:
+then add fish as main shell:
+
+```
+chsh -s /usr/bin/fish
+```
+*This could be different, run `which fish` to see the right path to run with chsh -s*
+
+2. Then to install starship run:
 
 ```
 curl -sS https://starship.rs/install.sh | sh
