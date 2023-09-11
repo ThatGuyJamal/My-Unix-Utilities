@@ -1,6 +1,6 @@
 # Setup for Linux 
 
-*This assumes you will copy the `.config` folder into your Linux home path and then install all the deps.
+*This assumes you will copy the `.config` folder into your Linux home path and then install all the deps.*
 
 1. To install fish run:
 
